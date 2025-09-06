@@ -10,3 +10,9 @@ Maximum freedom in settings! Most parameters can be adjusted to personal prefere
 
 ### 📴 Autonomy  
 Everything that can work without the internet should work without it. If the connection drops, the program should not turn into useless junk—it must remain functional in any situation.
+
+# References
+
+- [Keep a Changelog](https://keepachangelog.com/) — guidelines for maintaining changelogs  
+- [Semantic Versioning](https://semver.org/) — standard for version numbering  
+- [Conventional Commits](https://www.conventionalcommits.org/) — specification for commit messages
